@@ -1,4 +1,4 @@
-.country-flag-card {
+/* .country-flag-card { css for comment out codes
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -8,8 +8,8 @@
   border-radius: 15px;
   height: 24vh;
   width: 12vw;
-}
-@media(min-width: 1051) and (max-width: 1250px){
+} */
+/* @media(min-width: 1051) and (max-width: 1250px){
   .country-flag-card{
     width: calc(100% / 7 - 1em );
   }
@@ -44,4 +44,4 @@
   .country-flag-card{
     width: calc(100% / 1 - 1em);
   }
-}
+} */
